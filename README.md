@@ -1,5 +1,5 @@
 # spring boot blog
 
 ### 介绍
-**快速开发单体博客项目**
+**基于spring boot mybatis-plus 快速开发博客项目**
 
